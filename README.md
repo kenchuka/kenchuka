@@ -46,7 +46,7 @@ Results-driven professional with 12 years of expertise in Full Stack Development
 
 ## Contact Information
 - Email: kenchuka@tuta.io
-- Signal: Available on Keet as @k3nchuka
+- https://keet.io/: @k3nchuka
 - Mastodon: https://mastodon.social/@kenchuka
 - Github: https://github.com/kenchuka
 - Gitlab: https://gitlab.com/Kenchuka/
