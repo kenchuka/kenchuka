@@ -15,6 +15,7 @@ Results-driven professional with 12 years of expertise in Full Stack Development
 - Traveling the world since 2012, with a current base in Southeast Asia.
 - Continuous learning in AI, blockchain, and Cybersecurity.
 - Advocating for privacy, data security, and sound money.
+- Promoting organic food, healthy living, and appreciation for nature.
 
 ## Privacy, Confidentiality, and Security
 - All client interactions are conducted anonymously.
@@ -23,6 +24,8 @@ Results-driven professional with 12 years of expertise in Full Stack Development
 ## Payment Method
 - Preferred payment: Bitcoin or other alternative cryptocurrencies.
 - Discretion and client anonymity guaranteed.
+
+To maintain professionalism and reduce time spent on unproductive discussions, a non-refundable fee of 0.00235 BTC (approximately $250 USD) must be paid before any detailed discussion or consultation.
 
 ## Professional Experience & Skills
 
@@ -43,6 +46,7 @@ Results-driven professional with 12 years of expertise in Full Stack Development
 - **Frameworks & Tools**: Experienced with React, Node.js, Docker, Kubernetes, and AWS.
 - **Blockchain**: Deep understanding of Bitcoin, Ethereum, and other cryptocurrencies.
 - **AI Tools**: Utilized AI for process optimization, predictive analytics, and automated testing.
+- **Information Security**: Expertise in identifying vulnerabilities and implementing measures to protect systems and data; skills in designing and conducting security audits and penetration testing; knowledge in access control and identity management solutions; experience with incident response planning
 
 ## Contact Information
 - Email: kenchuka@tuta.io
