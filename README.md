@@ -1,3 +1,4 @@
+![cover](https://github.com/user-attachments/assets/ccf06302-39e7-4ea1-8305-e28a65db8ec5)
 
 Results-driven professional with 12 years of expertise in Full Stack Development, Systems Architecture, Information Security, and DevOps. Adept at leveraging AI tools to optimize processes and deliverables. Proven track record of contributing to open-source projects and extensive experience with alternative currencies, particularly Bitcoin. Tech lead in two startups acquired by major firms. Strong commitment to client privacy and data security, preferring payment in Bitcoin or other cryptocurrencies for discretion. Currently based in Southeast Asia, having traveled the world since 2012.
 
