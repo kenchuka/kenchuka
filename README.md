@@ -25,8 +25,6 @@ Results-driven professional with 12 years of expertise in Full Stack Development
 - Preferred payment: Bitcoin or other alternative cryptocurrencies.
 - Discretion and client anonymity guaranteed.
 
-To maintain professionalism and reduce time spent on unproductive discussions, a non-refundable fee of 0.00235 BTC (approximately $250 USD) must be paid before any detailed discussion or consultation.
-
 ## Professional Experience & Skills
 
 ### Development/Architecture/Security/DevOps
